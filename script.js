@@ -87,7 +87,7 @@ addTaskButton.addEventListener("click",()=>{
                
         })
 
-        localStorage.setItem("tasks", JSON.stringify(tasksData))
+       
        
             
 
