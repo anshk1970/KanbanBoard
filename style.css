@@ -18,7 +18,7 @@
   --accent:        red;
   --accent-dim:    rgba(100);
 
-  --dot-todo:    red;
+  --dot-todo:    blue;
   --dot-progress: yellow;
   --dot-done:     green;
 
@@ -84,7 +84,7 @@ nav .left {
   height: 10px;
   border-radius: 50%;
   background: var(--accent);
-  box-shadow: 0 0 15px var(--accent);
+  box-shadow: 0 0 8px var(--accent);
   flex-shrink: 0;
 }
 
