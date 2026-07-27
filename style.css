@@ -120,6 +120,7 @@ nav button:active { transform: scale(0.97); }
   align-items: flex-start;
   overflow-x: auto;
   min-height: 0;
+  justify-content:space-between;
 }
 
 .task-column {
